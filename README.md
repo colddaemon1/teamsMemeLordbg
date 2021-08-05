@@ -1,2 +1,1 @@
-# teamsMemeLordbg
-MS Teams or Zoom backgrounds
+Video Call backgrounds
